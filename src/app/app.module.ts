@@ -13,7 +13,7 @@ import { AgmCoreModule } from '@agm/core';
     BrowserModule,
     HttpClientModule,
     AgmCoreModule.forRoot({
-      apiKey: ''  // Use your OWN Google API Key
+      apiKey: ''  // Use your own Google Project API Key Credential
     })
   ],
   providers: [],
