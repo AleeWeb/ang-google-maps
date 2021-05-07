@@ -23,7 +23,7 @@
     "@angular/router": "~7.0.0",
     "core-js": "^2.5.4",
     "fstream": "^1.0.12",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.7",
     "js-yaml": "^3.13.1",
     "rxjs": "~6.3.3",
     "tar": "^4.4.10",
